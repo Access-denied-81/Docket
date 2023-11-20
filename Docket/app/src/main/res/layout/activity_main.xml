@@ -27,7 +27,7 @@
 
         app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
         android:nestedScrollingEnabled="true"/>
-    
+
     <com.google.android.material.floatingactionbutton.FloatingActionButton
         android:id="@+id/fab"
         android:layout_width="wrap_content"
@@ -41,13 +41,4 @@
         android:backgroundTint="@android:color/holo_green_dark"
         android:src="@drawable/ic_baseline_add_24"/>
 
-
-
-
-
-
-
-
 </RelativeLayout>
-
-
